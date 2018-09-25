@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: black;
+  }
+  
+  #label{
+    font-family: 'Paytone One', sans-serif;
+    text-align:center;
+    color:white;
+    font-size: 120px;
+    margin-top: 50px;
+    margin-bottom:20px;
+    margin-left: 20px;
+    text-shadow: 2px 2px greenyellow;
+  
+  }
+  
+  
+  
+  
+  #slide1, #slide2 {
+    width: auto;
+  }
+  #slide1 {
+    background: url('https://media.giphy.com/media/l0K4lPx8bvdbFMdGM/giphy.gif') 70% no-repeat fixed;
+    color: #fff;
+    height: 60%;
+  
+    margin-left: 450px;
+    margin-right: 450px;
+    background-size: cover;
+    border-color: white;
+    border-style: solid;
+    border-radius: 230px;
+
+  }
+  
+  #arrowOne{
+    padding-top:90px;
+    height:20%;
+    margin-top: 5px;
+    margin-left: 650px;
+  }
+    
+
+
+  #arrow{
+    height:20%;
+    margin-top: 5px;
+    margin-left: 650px;
+    
+
+  }
+  
+
+
+  
