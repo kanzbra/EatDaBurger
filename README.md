@@ -1,6 +1,6 @@
-# EatDaBurger
 
- # "Friend Finder" Application
+ # "Eat Da Burger" Application
+ 
 ##### Built a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). 
 
 ## Table of Contents
